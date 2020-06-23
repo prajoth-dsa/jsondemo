@@ -1,0 +1,18 @@
+{
+  "lastsongid": 101,
+  "albums": [
+    {
+      "name": "Udi Udi",
+      "songs": [
+        {
+          "name": "TMMZ",
+          "lyrics": "TMMZ Lyrics go here"
+        },
+        {
+          "name": "Hanv Nenam",
+          "lyrics": "Hanv Nenam Lyrics go here"
+        }
+      ]
+    }
+  ]
+}
