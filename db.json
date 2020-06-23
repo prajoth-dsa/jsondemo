@@ -1,0 +1,10 @@
+{
+  "albums": ["Udi Udi",
+  "songs": [{
+    "name": "Tuzo Mog Maka Zala",
+    "songid": "101"
+  },{
+    "name": "Hanv Nenam",
+    "songid": "102"
+  }]]
+}
